@@ -130,13 +130,13 @@ Perfect for agencies: rebrand, resell, and scale your SEO services effortlessly.
 <tr>
 <td width="30%" align="center">
 
-### **🆓 Free Free**
+### **🆓 Free **
 
 <h2>$0</h2>
 
 **Perfect for Testing**
-
-✅ **5** Pages free
+✅ **1** analysis per account
+✅ **5** pages per crawl
 ✅ Advanced AI Insights
 ✅ Core SEO Metrics
 
