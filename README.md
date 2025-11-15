@@ -153,7 +153,7 @@ Perfect for agencies: rebrand, resell, and scale your SEO services effortlessly.
 
 **For Solo Professionals**
 
-✅ **30** Monthly Analyses
+✅ **10** Monthly Analyses
 ✅ **20** Pages per Crawl
 ✅ Advanced AI Insights
 ✅ Historical Data (6 months)
@@ -173,7 +173,7 @@ Perfect for agencies: rebrand, resell, and scale your SEO services effortlessly.
 
 **For Agencies & Teams**
 
-✅ **100** Monthly Analyses
+✅ **50** Monthly Analyses
 ✅ **50** Pages per Crawl
 ✅ Advanced AI Insights
 ✅ Historical Data (12 months)
